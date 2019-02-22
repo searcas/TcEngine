@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  C:\Users\Anonymous\source\repos\TcEngine\Dependencies\GLFW\include\GLFW\glfw3.h(98): note: see previous definition of 'APIENTRY'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(908): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(910): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(922): error C2143: syntax error: missing ';' before '*'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(922): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(929): error C2143: syntax error: missing ';' before '*'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(929): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(930): error C2143: syntax error: missing ';' before '*'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(930): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(946): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(947): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(961): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(972): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(973): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(974): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(978): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(979): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(980): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(984): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(985): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(986): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(990): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(991): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(992): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(993): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(994): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(995): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1010): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1126): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1127): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1142): error C2061: syntax error: identifier 'RGBQUAD'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1148): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1148): error C2143: syntax error: missing ',' before '*'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1149): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1149): error C2143: syntax error: missing ',' before '*'
+C:\Users\Anonymous\source\repos\TcEngine\Dependencies\FreeImage\include\FreeImage.h(1149): error C2548: 'FreeImage_AllocateExT': missing default parameter for parameter 7
+  BatchRenderer2D.cpp
+C:\Users\Anonymous\source\repos\TcEngine\TcEngine\src\graphics\BatchRenderer2D.cpp(74): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anonymous\source\repos\TcEngine\TcEngine\src\graphics\BatchRenderer2D.cpp(99): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anonymous\source\repos\TcEngine\TcEngine\src\graphics\BatchRenderer2D.cpp(100): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anonymous\source\repos\TcEngine\TcEngine\src\graphics\BatchRenderer2D.cpp(101): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anonymous\source\repos\TcEngine\TcEngine\src\graphics\BatchRenderer2D.cpp(102): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anonymous\source\repos\TcEngine\TcEngine\src\graphics\BatchRenderer2D.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  buffer.cpp
+  indexbuffer.cpp
+  vertexarray.cpp
+C:\Users\Anonymous\source\repos\TcEngine\TcEngine\src\graphics\buffers\vertexarray.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  group.cpp
+  layer.cpp
+C:\Users\Anonymous\source\repos\TcEngine\TcEngine\src\graphics\layers\layer.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  tilelayer.cpp
+  shader.cpp
+  simple2drenderer.cpp
+  sprite.cpp
+  static_sprite.cpp
+  texture.cpp
+  window.cpp
+  mat4.cpp
+  maths.h
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
